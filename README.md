@@ -57,13 +57,17 @@ We look at lower levels; all are important but we want to start at the highest l
 [*] 1. introduction to computation - MIT 6.001 SICP 2004
 
 [*] 2. Scheme basics - MIT 6.001 SICP 2004
-# Higher-order procedures
+
 
 [*] 3. Procedures and Processes - 6.001 SICP (2004)
 #recursive and iterative 
 #proof by induction
 
 [*] Lecture 1A | MIT 6.001 Structure and Interpretation, 1986
+
+
+# Higher-order procedures
+
 
 [ ] Read [Formulating Abstractions with Higher-Order Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-12.html#%_sec_1.3)
 
