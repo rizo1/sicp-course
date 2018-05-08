@@ -63,6 +63,8 @@ We look at lower levels; all are important but we want to start at the highest l
 #recursive and iterative 
 #proof by induction
 
+[*] Lecture 1A | MIT 6.001 Structure and Interpretation, 1986
+
 [ ] Read [Formulating Abstractions with Higher-Order Procedures](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-12.html#%_sec_1.3)
 
 [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures 1](https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE)
