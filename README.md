@@ -60,10 +60,13 @@ We look at lower levels; all are important but we want to start at the highest l
 
 
 [*] 3. Procedures and Processes - 6.001 SICP (2004)
-#recursive and iterative 
-#proof by induction
+recursive and iterative 
+proof by induction
 
 [*] Lecture 1A | MIT 6.001 Structure and Interpretation, 1986
+
+[*]Lecture 1B | MIT 6.001 Structure and Interpretation, 1986
+excellent explainations 
 
 
 # Higher-order procedures
